@@ -31,7 +31,6 @@ The main advantage of refactoring code is to improve efficiency. In the module, 
 1. understanding your original solution
 2. finding the specific line of code you'd like to improve or remove, AND/OR
 3. seeing how your original code can be improved.
-Thus, as a programmer, it's important to be organized.
 
 - How do these pros and cons apply to refactoring the original VBA script?
 Luckily, by following along with the module, my original code was neat and readable, with comments reminding me how the solution works. Combined with the step-by-step solution provided to us in the challenge, I had no issues refactoring my code and in the end, the refactored solution did in fact improve the script's efficiency.
