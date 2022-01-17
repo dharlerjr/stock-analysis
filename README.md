@@ -27,11 +27,7 @@ Thus, the refacotred code is more efficient.
 ## Summary
 
 - What are the advantages or disadvantages of refactoring code?
-The main advantage of refactoring code is to improve efficiency. In the module, we used a nested for loop to analyze all the stock data. While this solution is logically correct and easy to understand, it is not the most efficient method. In our refactored code, we may have multiple for loops, but none of them are nested, which is why our refactored code has a shorter runtime and thus, our refactored code is more efficient.
-
-Another benefit of refactoring code is to simply clean it up, organize it, and make it look nice by potentially adding comments and white spaces in between blocks of code. 
-
-In my opinion, the only disadvantage of refactoring code occurs when your original code is disorganized to begin with. As a result, when you go to refactor your solution, you may have trouble...
+The main advantage of refactoring code is to improve efficiency. In the module, we used a nested for loop to analyze all the stock data. While this solution is logically correct and easy to understand, it is not the most efficient method. In our refactored code, we may have multiple for loops, but none of them are nested, which is why our refactored code has a shorter runtime and thus, our refactored code is more efficient. Another benefit of refactoring code is to simply clean it up, organize it, and make it look nice by potentially adding comments and white spaces in between blocks of code. In my opinion, the only disadvantage of refactoring code occurs when your original code is disorganized to begin with. As a result, when you go to refactor your solution, you may have trouble...
 1. understanding your original solution
 2. finding the specific line of code you'd like to improve or remove, AND/OR
 3. seeing how your original code can be improved.
