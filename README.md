@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Background
-In order to diversify his parent's investment portfolio, we helped Steve analyze stock data from 2017 to 2018 for twelve green-energy companies by writing multiple VBA scripts. Specifically, we created a script to analyze a single stock, another script to analyze all twelve stocks from one year, then finally, a script to analyze all twelve stocks from one year of the user's choosing. The results of our stock analysis our displayed below. 
+In order to diversify his parent's investment portfolio, we helped Steve analyze stock data from 2017 to 2018 for twelve green-energy companies. Specifically, we created multiple Microsoft Excel VBA scripts, including one to analyze a single stock, another to analyze all twelve stocks from one year, then finally, a script to analyze all twelve stocks from one year of the user's choosing. The results of our stock analysis our displayed below. 
 
 ![Stock Analysis 2017](https://github.com/dharlerjr/stock-analysis/blob/main/Stock_data_2017.PNG)
 ![Stock Analysis 2018](https://github.com/dharlerjr/stock-analysis/blob/main/Stock_data_2018.PNG)
