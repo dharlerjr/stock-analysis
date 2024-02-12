@@ -27,7 +27,7 @@ Refactored Script (see images below)
 ![Refactored Script Runtime 2017](https://github.com/dharlerjr/stock-analysis/blob/main/VBA_Challenge_2017.PNG)
 ![Refactored Script Runtime 2018](https://github.com/dharlerjr/stock-analysis/blob/main/VBA_Challenge_2018.PNG)
 
-As you can see, our refactored script is more efficient.
+As you can see, our refactored script runs in one-tenth of the time as the original script.
 
 ## Summary
 
