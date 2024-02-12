@@ -18,10 +18,12 @@ According to our analysis, in 2017, each of the twelve stocks had a positive ret
 
 ### Execution Times (seconds)
 Original Script (see images below)
+
 ![Original Script Runtime 2017](https://github.com/dharlerjr/stock-analysis/blob/main/green_stocks_2017.PNG)
-![Original Script Runtime 2018](https://github.com/dharlerjr/stock-analysis/blob/main/green_stocks_2018.PNG
+![Original Script Runtime 2018](https://github.com/dharlerjr/stock-analysis/blob/main/green_stocks_2018.PNG)
 
 Refactored Script (see images below)
+
 ![Refactored Script Runtime 2017](https://github.com/dharlerjr/stock-analysis/blob/main/VBA_Challenge_2017.PNG)
 ![Refactored Script Runtime 2018](https://github.com/dharlerjr/stock-analysis/blob/main/VBA_Challenge_2018.PNG)
 
