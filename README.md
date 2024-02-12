@@ -14,18 +14,18 @@ After helping him analyze the stock data provided in the worksheet, Steve was el
 ## Results
 
 ### Stock Performance
-According to our analysis, in 2017, each of the twelve stocks that we're working with had a positive return, except for TERP. Notably, DQ and SEDG had the highest returns of 199.4% and 184.5% respectively! However, 2018 was not as fruitful. In fact, only two out of the twelve stocks had a positive return this year: ENPH (81.9%) and RUN (84.0%). 
+According to our analysis, in 2017, each of the twelve stocks had a positive return, except for TERP. Notably, DQ and SEDG had the highest returns of 199.4% and 184.5% respectively! However, 2018 was not as fruitful. In fact, only two out of the twelve stocks had a positive return this year: ENPH (81.9%) and RUN (84.0%). 
 
 ### Execution Times (seconds)
-Original Script:
-    2017: 2.25
-    2018: 2.27
+Original Script (see images below)
+![Original Script Runtime 2017](https://github.com/dharlerjr/stock-analysis/blob/main/green_stocks_2017.PNG)
+![Original Script Runtime 2018](https://github.com/dharlerjr/stock-analysis/blob/main/green_stocks_2018.PNG
 
-Refactored Script:
-    2017: 0.27
-    2018: 0.27
+Refactored Script (see images below)
+![Refactored Script Runtime 2017](https://github.com/dharlerjr/stock-analysis/blob/main/VBA_Challenge_2017.PNG)
+![Refactored Script Runtime 2018](https://github.com/dharlerjr/stock-analysis/blob/main/VBA_Challenge_2018.PNG)
 
-Thus, the refacotred code is more efficient.
+As you can see, our refactored script is more efficient.
 
 ## Summary
 
