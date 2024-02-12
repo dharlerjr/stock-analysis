@@ -3,10 +3,13 @@
 ## Overview of Project
 
 ### Background
-In this module, we successfully helped Steve analyze the "DQ" stock data, then all stock data from the year 2018, and lastly, stock data from either year of our choosing. We also learned how to format the spreadsheet using only VBA scripts. 
+In order to diversify his parent's investment portfolio, we helped Steve analyze stock data from 2017 to 2018 for twelve green-energy companies by writing multiple VBA scripts. Specifically, we created a script to analyze a single stock, another script to analyze all twelve stocks from one year, then finally, a script to analyze all twelve stocks from one year of the user's choosing. The results of our stock analysis our displayed below. 
+
+![Stock Analysis 2017](https://github.com/dharlerjr/stock-analysis/blob/main/Stock_data_2017.PNG)
+![Stock Analysis 2018](https://github.com/dharlerjr/stock-analysis/blob/main/Stock_data_2018.PNG)
 
 ### Purpose
-After helping him analyze the stock data provided in the worksheet, Steve was elated with the results. However, our code may not be the most efficient method, especially if Steve decides to analyze thousands of stocks instead of just a few. Thus, we'll refactor our code to loop through all the data only once, which will reduce our script's runtime. 
+After helping him analyze the stock data provided in the worksheet, Steve was elated with the results. However, our script was not very efficient and would likely perform poorly if given many more stocks to analyze. Thus, to reduce our script's runtime, we refactored our code to loop through all of the stock data only once, rather than looping the all of the data once for each different stock.
 
 ## Results
 
